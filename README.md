@@ -60,7 +60,7 @@ In conclusion, we have successfully built a machine learning model that can pred
 To use this project, you can clone the repository and run the `heart-failure-beginner-friendly-91-accuracy.ipynb` notebook using Jupyter or any other compatible notebook application.
 
 ```sh
-git clone https://github.com/anik199/Heart-failure-prediction.git
+https://github.com/AbhijeetAayush/Heart-failure-prediction.git
 cd Heart-failure-prediction
 jupyter notebook heart-failure-beginner-friendly-91-accuracy.ipynb
 ```
